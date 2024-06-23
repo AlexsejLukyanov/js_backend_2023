@@ -4,20 +4,17 @@
   "description": "back-end part",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "/\u0016git@github.com:AlexsejLukyanov/js_backend_2023.git/"
+    "url": "itory: (https://github.com/AlexsejLukyanov/js_backend_2023.git)"
   },
-  "author": "",
+  "author": "Alexej",
   "license": "ISC",
-  "bugs": {
-	"url":"https://github.com/AlexsejLukyanov/js_backend_2023/issues"
-  },
-  "homepage":"https://github.com/AlexsejLukyanov/js_backend_2023/readme",
   "dependencies": {
     "express": "^4.19.2",
-    "mongodb": "^6.5.0"
+    "mongodb": "^6.7.0"
   }
 }
